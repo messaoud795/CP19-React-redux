@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@1,500&display=swap");
+.task {
+  display: flex;
+  margin-top: 30px;
+  align-items: center;
+  padding: 20px;
+  width: 600px;
+  justify-content: space-between;
+  box-shadow: 8px 10px 23px -8px rgba(0, 0, 0, 0.47);
+  background-color: white;
+  border-radius: 10px;
+}
+.description {
+  font-family: "Bai Jamjuree", sans-serif;
+  font-size: 22px;
+}
+#btnedit {
+  display: flex;
+  align-items: center;
+}
+.edit {
+  background-color: transparent;
+  border: none;
+  margin-right: 5px;
+}
